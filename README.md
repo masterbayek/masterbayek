@@ -7,7 +7,7 @@
 - 📫 How to reach me: masum.billal@toptal.com
 <!---
 - 😄 Pronouns: ...--->
-- ⚡ Fun fact: My Erd\'{o}s number is 3 https://mathscinet.ams.org/mathscinet/collaborationDistance.html?group_source=1458939&group_target=189017
+- ⚡ Fun fact: My Erdős number is 3 https://mathscinet.ams.org/mathscinet/collaborationDistance.html?group_source=1458939&group_target=189017
 
 
 <!---
