@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @masterbayek
+- Hi, I’m @masterbayek
 <!---
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ..
+<!--- - 👀 I’m interested in 
+<!--- - 🌱 I’m currently learning 
+<!--- - 💞️ I’m looking to collaborate on ..
 --->
-- 📫 How to reach me: masum.billal@toptal.com
+- masum.billal@toptal.com
 <!---
-- 😄 Pronouns: ...--->
-- ⚡ Fun fact: My Erdős number is 3 https://mathscinet.ams.org/mathscinet/collaborationDistance.html?group_source=1458939&group_target=189017
+<!--- - 😄 Pronouns: ...--->
+-  Fun fact: My Erdős number is 3 https://mathscinet.ams.org/mathscinet/collaborationDistance.html?group_source=1458939&group_target=189017
 
 
 <!---
